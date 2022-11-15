@@ -20,6 +20,7 @@ Autenticação feita com isonmia para crud
 Autenticação: 
 {User:dell5557
 senha:1234}
+projeto disponivel em (https://projeto--fullstack--django.herokuapp.com/)
 </div>
 
 
@@ -31,8 +32,9 @@ senha:1234}
   <img align="center" alt="sergio-sqlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   <img align="center" alt="sergio-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" alt="amazonwebservices" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-	<img align="center" alt="heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
-	</div>
+  <img align="center" alt="heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+  <img align="center" alt="sergio-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  </div>
   
   ##
  
