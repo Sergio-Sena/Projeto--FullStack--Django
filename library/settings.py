@@ -134,9 +134,9 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 django_heroku.settings(locals())
 
-AWS_ACCESS_KEY_ID = 'AKIAVYCMGDVV7BQKIC3H'
-AWS_SECRET_ACCESS_KEY = '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'
-AWS_STORAGE_BUCKET_NAME = 'bity-library-pedroimpulcetto'
+AWS_ACCESS_KEY_ID = 'AKIA6DNURDT7MNRI7RQF'
+AWS_SECRET_ACCESS_KEY = '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 '
+AWS_STORAGE_BUCKET_NAME = 'projeto--fullstack--django-images'
 
 AWS_S3_FILE_OVERWRITE = False
 AWS_DEFAULT_ACL = None
